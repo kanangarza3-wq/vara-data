@@ -1,0 +1,14 @@
+{
+  "status": "Ожидает зачисления",
+  "amount": "12,500.00",
+  "currency": "USD",
+  "ref": "VARA-2048-001",
+  "first_name": "Jordan",
+  "last_name": "Davis",
+  "country": "United Arab Emirates",
+  "method": "bank",
+  "bank_name": "Example Bank",
+  "bic": "EXAMPLEDX",
+  "iban": "XX00 TEST 0000 0000 0000 00",
+  "comment": "Перевод отправлен"
+}
